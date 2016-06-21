@@ -56,7 +56,8 @@ ul.posts li {
 }
 
 .floating-box p {
-    line-height: 100px;
+    line-height: 50px;
+    color: black;
 }
 
 .wrap {
