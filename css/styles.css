@@ -54,3 +54,7 @@ ul.posts li {
     background-color: white;
     text-align: center;
 }
+
+.wrap {
+    margin: auto;
+}
