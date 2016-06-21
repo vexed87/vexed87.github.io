@@ -55,6 +55,11 @@ ul.posts li {
     text-align: center;
 }
 
+.floating-box p {
+    line-height: 100px;
+    height: 100px;
+}
+
 .wrap {
     text-align: center;
     padding-bottom: 20px;
